@@ -1,0 +1,5 @@
+module boost_conversion {
+  header "boost/polymorphic_pointer_cast.hpp"
+  header "boost/implicit_cast.hpp"
+  header "boost/polymorphic_cast.hpp"
+}
